@@ -12,7 +12,7 @@
   "description": "",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.6.12",
+    "mongoose": "^5.7.5",
     "require-dir": "^1.2.0"
   },
   "devDependencies": {
